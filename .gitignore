@@ -1,0 +1,14 @@
+# Ignore IntelliJ project settings
+.idea/
+*.iml
+
+# Ignore Java build files
+*.class
+*.jar
+out/
+bin/
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
